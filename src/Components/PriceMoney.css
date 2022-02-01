@@ -13,23 +13,23 @@
 .moneyListItem{
 display: flex;
 align-items: center;
-padding: 8px;
+padding: 5px;
 
 }
 
 .moneyListItem.active{
    background-color: teal;
-   padding: 8px;
+   padding: 5px;
    border-radius: 5px;
 }
 
 .moneyListNumber{
-    font-size: 30px;
+    font-size: 20px;
    font-weight: 300;
    width: 30%;
 }
 
 .moneyListAmount{
-    font-size: 35px;
+    font-size: 25px;
     font-weight: 300;
 }
