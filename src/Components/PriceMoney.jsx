@@ -1,4 +1,5 @@
 import './PriceMoney.css'
+
 const PriceMoney = ({Price,questionNumber})=>{
     console.log("PriceMoney Rendered");
     // console.log(props);
