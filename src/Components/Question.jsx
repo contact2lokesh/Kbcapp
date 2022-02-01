@@ -1,7 +1,7 @@
 import Trivia from "./Trivia";
 import Timer from "./Timer"
 import './Question.css';
-import { useState } from "react/cjs/react.development";
+import { useState } from "react";
 import { useEffect } from "react";
 const Question = ({questionNumber, setQuestionNumber, Price})=>{
   console.log("Question Rendered");
