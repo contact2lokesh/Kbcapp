@@ -11,7 +11,7 @@ const [questionNumber, setQuestionNumber] = useState(1);
 const [userName, setUserName] = useState(null);
 
 const priceAmount = Price;
-console.log("App renderd");
+console.log(userName);
   return (
     <div className="App">
       {userName? (<>
