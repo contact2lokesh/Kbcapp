@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import React, { useEffect, useRef, useState } from "react"; 
 // import Price from '../assets/Price';
 import TriviaQuestions from "../assets/TriviaQuestions";
 import '../Components/Trivia.css';
