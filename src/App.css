@@ -1,0 +1,6 @@
+.App{
+  height: 100vh;
+  display: flex;
+  background-color: #ff33cc;
+  color: white;
+}
